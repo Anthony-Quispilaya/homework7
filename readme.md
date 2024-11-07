@@ -1,6 +1,6 @@
 # QR Image
 
-![QRCode](./qr_codes/QRCode_20241107155133.png)
+![QRCode](QRCode_20241107155133.png)
 
 # Screenshot Image
 
