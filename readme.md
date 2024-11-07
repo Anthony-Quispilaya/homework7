@@ -1,7 +1,10 @@
-# QR Image
+# QR Images
 
-![QRCode](QRCode_20241107155133.png)
+## Profile QR Code
+![Homepage](homepage.png)
+
+## Repository QR Code
+![Repository](repository.png)
 
 # Screenshot Image
-
 ![Screenshot](screenshot/Screenshot.jpg)
